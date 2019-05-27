@@ -1,4 +1,3 @@
-
 For this assignment we have used, MiniMax algorithm. 
 This algorithm creates all possible moves till a certain depth and then selects the best possible move with a definite heuristic.
 
@@ -66,6 +65,5 @@ Moves leading us to winning position-> (1, 3, 7, 8)
 Moves that block opponent from winning -> (5, 9, 10)
 Moves that bring little benefit -> (2, 4, 6)
 
-We assign weights to all these possible heuristic values and subtract the values with the opponent’s heuristic value which gives us our actual heuristic value (with consideration of the opponent).
-
+We assign weights to all these possible heuristic values and subtract the values with the opponentâ€™s heuristic value which gives us our actual heuristic value (with consideration of the opponent).
 
